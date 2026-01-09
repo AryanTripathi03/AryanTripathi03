@@ -1,1 +1,90 @@
-Hi, I'm Aryan Tripathi 👋AIML Engineer | Industrial Automation Specialist | Full-Stack Python DeveloperI build production-grade software that transforms industrial "dirty data" into actionable intelligence. My expertise lies at the intersection of Computer Vision, Heuristic Data Engineering, and Predictive Analytics, with multiple systems currently deployed in active enterprise environments.🏭 Industrial Intelligence & Automation (Live Production Tools)Developed for Berry Alloys Ltd, these tools utilize a decoupled architecture (GitHub Pages Frontend / Python Backend on Render & Streamlit).🚀 ForgeSense Intelligence — 🟢 Live AppFlagship Suite: A decision-support system for furnace monitoring.Innovation: Engineered a custom Heuristic Header Detection algorithm to ingest unstructured logs, reducing data prep time by 95%.Logic: Severity-based alerting for Specific Power Consumption ($kWh/MT$) and recovery anomalies.🚀 Berry-Excel-Merger — 🟢 Live AppAutomated data consolidation engine for multi-shift furnace monitoring.🚀 Gajanan-Merger — 🟢 Live AppHigh-speed workbook integration utility with automatic metadata detection for large-scale enterprise reporting.🚀 Workbook-Converter — 🟢 Live AppSeamless format conversion engine designed for industrial reporting pipelines and legacy system compatibility.👁️ AI & Computer Vision Research🚘 Driver Drowsiness MonitoringReal-time safety system utilizing 3D Head Pose Estimation ($SolvePnP$) and EAR/MAR analysis to detect fatigue.🛣️ Pothole Detection SystemDeep Learning (CNN) solution for automated infrastructure health monitoring.⚡ Energy Consumption PredictionTime-series forecasting using Machine Learning to optimize utility usage and peak-load management.🛠️ Technical StackCategoryTools & TechnologiesAI/ML & CVOpenCV, Dlib, TensorFlow, CNNs, 3D Geometry ($SolvePnP$)Data EngineeringPython (Pandas, NumPy, Scikit-Learn), Heuristic Algorithms, SQLWeb & CloudFastAPI, Flask, Streamlit, GitHub Pages, RenderSoftware DevModular Architecture, Linux, Git/GitHub, CI/CD📊 GitHub Statistics📫 Let's Connect💼 LinkedIn: Aryan Tripathi📧 Email: aryantripathi.9910@gmail.com🌐 Portfolio: forgesense-intel.streamlit.app
+# Hi, I’m Aryan Tripathi 👋  
+**AI & ML Engineer | Industrial Automation | Full-Stack Python Developer**
+
+I build **production-grade systems** that transform **industrial, unstructured (“dirty”) data** into **actionable intelligence**.  
+My work focuses on **Computer Vision, Heuristic Data Engineering, and Predictive Analytics**, with tools **actively used in real industrial workflows**.
+
+---
+
+## 🏭 Industrial Intelligence & Automation (Live Production Systems)
+
+Developed for **Berry Alloys Ltd**, using a **decoupled architecture**  
+(GitHub Pages Frontend · Python Backend · Render · Streamlit)
+
+### 🚀 ForgeSense Intelligence — 🟢 Live
+**Flagship Furnace Decision-Support System**
+
+- Custom **Heuristic Header Detection Algorithm** for unstructured industrial logs  
+- Reduced manual data preparation time by **~95%**
+- Severity-based alerting for:
+  - Specific Power Consumption (**kWh/MT**)
+  - Recovery and efficiency anomalies
+
+🔗 https://forgesense-intel.streamlit.app
+
+---
+
+### 🚀 Berry-Excel-Merger — 🟢 Live
+**Automated Multi-Shift Furnace Data Consolidation Tool**
+
+- Eliminates manual Excel merging in daily industrial reporting
+- Designed for production-scale operational workflows
+
+🔗 https://aryantripathi03.github.io/Berry-Excel-Merger/
+
+---
+
+### 🚀 Gajanan-Merger — 🟢 Live
+**High-Speed Enterprise Workbook Integration Utility**
+
+- Automatic metadata and structure detection
+- Handles large Excel files used in industrial reporting pipelines
+
+🔗 https://aryantripathi03.github.io/Gajanan-Merger/Merger.html
+
+---
+
+### 🚀 Workbook-Converter — 🟢 Live
+**Industrial Reporting Format Conversion Engine**
+
+- Built for legacy system compatibility
+- Seamless Excel format normalization for reporting pipelines
+
+🔗 https://aryantripathi03.github.io/Workbook-Converter/
+
+---
+
+## 👁️ AI & Computer Vision Projects
+
+### 🚘 Driver Drowsiness Monitoring System
+- Real-time fatigue detection using:
+  - **3D Head Pose Estimation (SolvePnP)**
+  - Eye Aspect Ratio (EAR) & Mouth Aspect Ratio (MAR)
+- Includes PERCLOS-based fatigue assessment
+
+### 🛣️ Pothole Detection System
+- CNN-based deep learning solution
+- Automated road infrastructure condition monitoring
+
+### ⚡ Energy Consumption Prediction
+- Time-series forecasting using machine learning
+- Peak-load optimization and energy efficiency analysis
+
+---
+
+## 🛠️ Technical Stack
+
+| Domain | Tools & Technologies |
+|------|---------------------|
+| AI / ML & CV | OpenCV, Dlib, TensorFlow, CNNs, 3D Geometry (SolvePnP) |
+| Data Engineering | Python, Pandas, NumPy, Scikit-Learn, SQL, Heuristic Algorithms |
+| Web & Cloud | FastAPI, Flask, Streamlit, GitHub Pages, Render |
+| Software Engineering | Modular Architecture, Linux, Git/GitHub, CI/CD |
+
+---
+
+## 📫 Connect
+
+- 💼 **LinkedIn**: Aryan Tripathi  
+- 📧 **Email**: aryantripathi.9910@gmail.com  
+- 🌐 **Portfolio**: https://forgesense-intel.streamlit.app
