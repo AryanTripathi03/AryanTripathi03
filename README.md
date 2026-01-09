@@ -6,11 +6,11 @@ I build software that bridges the gap between raw data and real-world utility. W
 ---
 
 ## 🌐 Live Production Tools (Enterprise Automation)
-Developed during my tenure at **Berry Alloys Ltd**, these tools remain in **active use** by company personnel to automate fragmented Excel workflows.
+These tools were developed for **Berry Alloys Ltd** and are currently hosted on Render for active use by company personnel.
 
-1. **[Berry-Excel-Merger](https://github.com/AryanTripathi03/Berry-Excel-Merger)** — Core data consolidation engine for industrial reporting.
-2. **[Gajanan-Merger](https://github.com/AryanTripathi03/Gajanan-Merger)** — High-speed workbook integration utility.
-3. **[Workbook-Converter](https://github.com/AryanTripathi03/Workbook-Converter)** — Seamless format conversion engine for departmental data.
+* 🚀 **[Berry-Excel-Merger](https://github.com/AryanTripathi03/Berry-Excel-Merger)** — [Live App] — Automated data consolidation engine.
+* 🚀 **[Gajanan-Merger](https://github.com/AryanTripathi03/Gajanan-Merger)** — [Live App] — High-speed workbook integration utility.
+* 🚀 **[Workbook-Converter](https://github.com/AryanTripathi03/Workbook-Converter)** — [Live App] — Seamless format conversion engine.
 
 ---
 
